@@ -1,9 +1,0 @@
-# spt-only.yaml
-# Updated by GitHub Copilot
-payload:
-  - '+.whatismyipaddress.com'
-  - '+.ip.me'
-  - '+.spotify.com'
-  - '+.scdn.co'
-  - '+.pscdn.co'
-  - '+.spoti.fi'
